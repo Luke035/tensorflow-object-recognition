@@ -9,6 +9,7 @@ Object Recognition with Tensorflow
     yum install python-lxml
 
 <a href=https://github.com/tensorflow/models/issues/1834>Protoc issue</a>
+
     cd models
     mkdir protoc_3.3
     cd protoc_3.3/
