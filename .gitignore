@@ -1,0 +1,3 @@
+object_detection/faster_rcnn_inception_resnet_v2_atrous_coco_11_06_2017/*
+object_detection/*.tar.gz
+object_detection/ssd_mobilenet_v1_coco_11_06_2017
